@@ -1,0 +1,40 @@
+class Images{
+  static const String logo="assets/images/Logo.png";
+  static const String title="assets/images/Tittle.png";
+  static const String hundred="assets/images/Hundred.png";
+  static const String choice="assets/images/choice.png";
+  static const String Blur="assets/images/Blur.png";
+  static const String Backgroundsocilal="assets/images/Backgroundsocilal.png";
+  static const String Backgroundoerson="assets/images/Backgroundoerson.png";
+  static const String Background="assets/images/Background.png";
+  static const String checkemail="assets/images/Email Ilustration.png";
+  static const String succesful="assets/images/Password Succesfully Ilustration.png";
+  static const String Design="assets/images/UX Design.png";
+  static const String Ilustrator="assets/images/Ilustrator Designer.png";
+  static const String Developer="assets/images/Developer.png";
+  static const String Management="assets/images/Management.png";
+  static const String Information="assets/images/Information Technologi.png";
+  static const String Research="assets/images/Research and Analytics.png";
+  static const String Success="assets/images/Success Account Ilustration.png";
+  static const String Portfolio="assets/images/rejected.png";
+  static const String Saved="assets/images/Saved Ilustration.png";
+  static const String facebook="assets/icons/Facebook Logo.png";
+  static const String gojek="assets/icons/Gojek Logo.png";
+  static const String shoope="assets/icons/Shoope Logo.png";
+  static const String slack="assets/icons/Slack Logo.png";
+  static const String twitter="assets/icons/Twitter Logo.png";
+  static const String dana="assets/icons/Dana Logo.png";
+  static const String Profile="assets/images/Profile Background.png";
+  static const String information="assets/icons/Information.png";
+  static const String portfoliologo="assets/icons/Frame 427320619.png";
+  static const String location="assets/icons/Frame 427320619 (1).png";
+  static const String natification="assets/icons/Frame 427320619 (2).png";
+  static const String security="assets/icons/Frame 427320620.png";
+  static const String profile="assets/icons/Frame 427320627.png";
+  static const String secure="assets/icons/Icon.png";
+  static const String lock="assets/icons/lock.png";
+  static const String university="assets/images/university.png";
+  static const String rejected="assets/images/rejected.png";
+  static const String Vector="assets/images/Vector.png";
+
+}
